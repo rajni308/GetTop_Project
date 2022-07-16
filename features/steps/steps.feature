@@ -1,5 +1,5 @@
 # Created by rajni at 7/16/22
-Feature: # A test to verify user can search bar works
+Feature: # A test to verify search bar works
 
   Scenario:  Verify user can search existing product
 
